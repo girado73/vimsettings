@@ -8,7 +8,7 @@ Fast Installation:
 
 2. Copy the nvim folder in your .config Folder that can be found in your home dir
 
-3. copy the autoload folder into .vim/
+3. copy the autoload folder into .vim/ (if you dont have one, create one in your home dir)
 
 4. install neovim with 'sudo apt install neovim'
 
@@ -50,3 +50,5 @@ Made by Sp1ke
 .............,,.,/,,//(((###(,...(##%........,,***//.....#%####(///*............
 ...............**,*/*,.............../.,*..,**//////............................
 ....................................*,*/**///****,..............................
+
+This Looks way better when downloaded
