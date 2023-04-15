@@ -21,4 +21,12 @@ Plug 'sheerun/vim-polyglot'
 Plug 'ryanoasis/vim-devicons'
 set encoding=UTF-8
 Plug 'tc50cal/vim-terminal'
+syntax on
+inoremap " ""<left>
+inoremap ' ''<left>
+inoremap ( ()<left>
+inoremap [ []<left>
+inoremap { {}<left>
+inoremap {<CR> {<CR>}<ESC>O
+inoremap {;<CR> {<CR>};<ESC>O
 call plug#end()
